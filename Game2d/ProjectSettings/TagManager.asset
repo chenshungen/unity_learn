@@ -15,7 +15,7 @@ TagManager:
   - 
   - Ground
   - Env
-  - 
+  - NPC
   - 
   - 
   - 
@@ -46,4 +46,7 @@ TagManager:
     locked: 0
   - name: Platform
     uniqueID: 4201885653
+    locked: 0
+  - name: NPC
+    uniqueID: 637767701
     locked: 0
